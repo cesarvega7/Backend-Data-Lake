@@ -1,0 +1,12 @@
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\bin\Debug\net6.0\DataLake.Dto.deps.json
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\bin\Debug\net6.0\DataLake.Dto.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\bin\Debug\net6.0\DataLake.Dto.pdb
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.csproj.AssemblyReference.cache
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.AssemblyInfoInputs.cache
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.AssemblyInfo.cs
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.csproj.CoreCompileInputs.cache
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\refint\DataLake.Dto.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\DataLake.Dto.pdb
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.Dto\obj\Debug\net6.0\ref\DataLake.Dto.dll

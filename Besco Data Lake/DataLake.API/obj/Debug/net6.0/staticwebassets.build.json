@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7qFUFmZ47z3q1w01bqlU7xFqUzOwVcjuYBTxp9oEjmk=",
+  "Source": "DataLake.API",
+  "BasePath": "_content/DataLake.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

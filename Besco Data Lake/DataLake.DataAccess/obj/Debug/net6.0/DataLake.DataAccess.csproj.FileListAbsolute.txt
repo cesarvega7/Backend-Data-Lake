@@ -1,0 +1,15 @@
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\bin\Debug\net6.0\DataLake.DataAccess.deps.json
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\bin\Debug\net6.0\DataLake.DataAccess.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\bin\Debug\net6.0\DataLake.DataAccess.pdb
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\bin\Debug\net6.0\DataLake.Entities.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\bin\Debug\net6.0\DataLake.Entities.pdb
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.csproj.AssemblyReference.cache
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.AssemblyInfoInputs.cache
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.AssemblyInfo.cs
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.csproj.CoreCompileInputs.cache
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.csproj.CopyComplete
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\refint\DataLake.DataAccess.dll
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\DataLake.DataAccess.pdb
+C:\PROYECTO CENTRO PLANIFICACION\BACK\JLR DATA LAKE\Besco Data Lake\DataLake.DataAccess\obj\Debug\net6.0\ref\DataLake.DataAccess.dll
